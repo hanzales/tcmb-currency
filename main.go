@@ -50,4 +50,5 @@ func main() {
 		fmt.Printf("Banknote Buying: %s\n", currency.BanknoteBuying)
 		fmt.Printf("Banknote Selling: %s\n\n", currency.BanknoteSelling)
 	}
+
 }
